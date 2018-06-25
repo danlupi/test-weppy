@@ -14,4 +14,11 @@
       "url": "heroku/python"
     }
   ]
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "nosetests"
+      }
+    }
+  }
 }
